@@ -12,10 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kaykongo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaykongo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prince kongo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince kongo" height="30" width="40" /></a>
-<a href="https://kaggle.com/kaykongo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaykongo" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/prince-kongo-a31132210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince kongo" height="30" width="40" /></a>
+<a href="https://kaggle.com/princekwekukongo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaykongo" height="30" width="40" /></a>
 <a href="https://instagram.com/peekabo.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peekabo.official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/peekaboo media" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="peekaboo media" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@peekaboomedia1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="peekaboo media" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
