@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Prince Kongo</h1>
-<h3 align="center">A software developer from Ghana</h3>
+<h3 align="center">I am a Software Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaykongo" alt="kaykongo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kaykongo" target="blank"><img src="https://img.shields.io/twitter/follow/kaykongo?logo=twitter&style=for-the-badge" alt="kaykongo" /></a> </p>
 
-- 🌱 I’m currently learning **React, Nextjs, and Python**
+- 🌱 I’m currently learning **React, TypeScript, and Python**
 
 - 📫 How to reach me **kongoprince100@gmail.com**
 
